@@ -3,7 +3,9 @@
 
 MLD-Credit-Score-Classification-Beta-App-with-Streamlit
 
-| ML Deployment | Streamlit | App
-| mld credit score classification beta |  |  |
+| ML Deployment | Streamlit | App |
 |:-:|:-:|:-:|
-| <p style="text-align: center;"><a link='https://celik-muhammed-mld-credit-score-classification-beta--app-iz7ki6.streamlitapp.com/'><img src="https://i.ibb.co/rc4VNc4/MLD-credit-score.png" style="display:block; margin:auto; width:100%; "></a></p> | <p style="text-align: center;"><a link='https://celik-muhammed-mld-credit-score-classification-beta--app-iz7ki6.streamlitapp.com/'><img src="https://i.ibb.co/rc4VNc4/MLD-credit-score.png" style="display:block; margin:auto; width:100%; "></a></p> | <p style="text-align: center;"><a link='https://celik-muhammed-mld-credit-score-classification-beta--app-iz7ki6.streamlitapp.com/'><img src="https://i.ibb.co/rc4VNc4/MLD-credit-score.png" style="display:block; margin:auto; width:100%; "></a></p> |
+| mld credit score classification beta |  |  |
+| [<p style="text-align: center;"><img src="https://i.ibb.co/rc4VNc4/MLD-credit-score.png" style="display:block; margin:auto; width:100%; "></p>](https://celik-muhammed-mld-credit-score-classification-beta--app-iz7ki6.streamlitapp.com/) | <a href="https://celik-muhammed-mld-credit-score-classification-beta--app-iz7ki6.streamlitapp.com/" target="_blank"><p style="text-align: center;"><img src="https://i.ibb.co/rc4VNc4/MLD-credit-score.png" style="display:block; margin:auto; width:100%; "></p></a> | <a href="https://celik-muhammed-mld-credit-score-classification-beta--app-iz7ki6.streamlitapp.com/" target="_blank"><p style="text-align: center;"><img src="https://i.ibb.co/rc4VNc4/MLD-credit-score.png" style="display:block; margin:auto; width:100%; "></p></a> |
+| mld credit score classification beta |  |  |
+| [<p style="text-align: center;"><img src="https://i.ibb.co/rc4VNc4/MLD-credit-score.png" style="display:block; margin:auto; width:100%; "></p>](https://celik-muhammed-mld-credit-score-classification-beta--app-iz7ki6.streamlitapp.com/) | <a href="https://celik-muhammed-mld-credit-score-classification-beta--app-iz7ki6.streamlitapp.com/" target="_blank"><p style="text-align: center;"><img src="https://i.ibb.co/rc4VNc4/MLD-credit-score.png" style="display:block; margin:auto; width:100%; "></p></a> | <a href="https://celik-muhammed-mld-credit-score-classification-beta--app-iz7ki6.streamlitapp.com/" target="_blank"><p style="text-align: center;"><img src="https://i.ibb.co/rc4VNc4/MLD-credit-score.png" style="display:block; margin:auto; width:100%; "></p></a> |
