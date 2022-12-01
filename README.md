@@ -14,7 +14,7 @@
   
 <h3 align='right'>
   
-[14P-Machine-Learning-Projects-with-Python](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md)
+[50P-AWS-Model-Deployment-Prediction-App](https://github.com/celik-muhammed/50P-AWS-Model-Deployment-Prediction-App/blob/master/README.md)
 </h3>  
 
 | ML Deployment | Streamlit | App |
